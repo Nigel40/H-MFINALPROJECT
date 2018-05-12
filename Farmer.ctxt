@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Farmer
+comment1.params=name\ xPosFarmer\ yPosFarmer\ quest
+comment1.target=Farmer(java.lang.String,\ int,\ int,\ int)
+comment10.params=
+comment10.target=boolean\ getFirstBossAlive()
+comment11.params=
+comment11.target=boolean\ getSecondBossAlive()
+comment12.params=
+comment12.target=boolean\ getThirdBossAlive()
+comment2.params=
+comment2.target=boolean\ getFirstFarmer()
+comment3.params=
+comment3.target=java.lang.String\ getFarmerName()
+comment4.params=newName
+comment4.target=void\ setFarmerName(java.lang.String)
+comment5.params=
+comment5.target=int\ getQuest()
+comment6.params=
+comment6.target=int\ getyPosFarmer()
+comment7.params=newYPos
+comment7.target=void\ setyPosFarmer(int)
+comment8.params=
+comment8.target=int\ getxPosFarmer()
+comment9.params=newXPos
+comment9.target=void\ setxPosFarmer(int)
+numComments=13
